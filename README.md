@@ -1,8 +1,8 @@
-# Yourbself - Premium Edition
+# 3D Interactive App - Premium Edition
 
 ## ✨ Ultra-Premium Flutter Application
 
-Yourbself Premium Edition is a production-ready, cross-platform Flutter application for iOS, Android, and Web featuring:
+3D Interactive App Premium Edition is a production-ready, cross-platform Flutter application for iOS, Android, and Web featuring:
 
 - 🔐 **Firebase Authentication** - Secure user authentication
 - 🎨 **Glassmorphic UI Design** - Stunning frosted glass aesthetic
@@ -18,7 +18,7 @@ Yourbself Premium Edition is a production-ready, cross-platform Flutter applicat
 ## 📋 Project Structure
 
 ```
-yourbself/
+3d_interactive_app/
 ├── lib/
 │   ├── main.dart                 # Application entry point
 │   ├── firebase_options.dart     # Firebase configuration
@@ -55,7 +55,7 @@ yourbself/
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/bankarshrijesh480-boop/yourbself.git
-   cd yourbself
+   cd 3d_interactive_app
    ```
 
 2. **Install dependencies**:
@@ -389,7 +389,7 @@ flutter pub get
 
 **Issues & Bug Reports**: [GitHub Issues](https://github.com/bankarshrijesh480-boop/yourbself/issues)
 
-**Email**: support@yourbself.com
+**Email**: support@3dinteractiveapp.com
 
 **Documentation**: https://github.com/bankarshrijesh480-boop/yourbself/wiki
 
@@ -405,7 +405,7 @@ This project is provided under the terms of the EULA.md. See the file for comple
 
 ## 🎉 Credits
 
-**Created by**: Yourbself Inc.
+**Created by**: 3D Interactive App Inc.
 
 **Built with**:
 - Flutter & Dart
@@ -430,7 +430,7 @@ This project is provided under the terms of the EULA.md. See the file for comple
 
 ---
 
-**© 2026 Yourbself Inc. All rights reserved.**
+**© 2026 3D Interactive App Inc. All rights reserved.**
 
 **Version**: 1.0.0
 
