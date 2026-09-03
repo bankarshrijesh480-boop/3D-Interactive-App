@@ -1,13 +1,13 @@
 # Privacy Policy
 
-**YOURBSELF - Premium Edition**
+**3D INTERACTIVE APP - Premium Edition**
 **Version 1.0 - Effective Date: September 3, 2026**
 
 ---
 
 ## 1. INTRODUCTION
 
-Yourbself Inc. ("Company", "We", "Us", or "Our") respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Yourbself Premium Edition application ("Application", "Service", "App").
+3D Interactive App Inc. ("Company", "We", "Us", or "Our") respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the 3D Interactive App - Premium Edition ("Application") on all platforms (iOS, Android, Web).
 
 Please read this Privacy Policy carefully. If you do not agree with our practices, please do not use the Application.
 
@@ -172,7 +172,7 @@ Depending on your location, you may have the following rights:
 - **Right to Non-Discrimination**: Non-discriminatory treatment for exercising your rights
 
 ### 7.3 Exercising Your Rights
-To exercise any of these rights, please contact us at: privacy@yourbself.com
+To exercise any of these rights, please contact us at: privacy@3dinteractiveapp.com
 
 We will respond to your request within the timeframe required by applicable law (typically 30-45 days).
 
@@ -206,15 +206,15 @@ We may use:
 
 ## 9. CHILDREN'S PRIVACY
 
-The Application is not intended for children under 13 years of age (or the equivalent minimum age in your jurisdiction). We do not knowingly collect personal information from children under 13. If we discover that we have collected information from a child under 13, we will delete such information immediately.
+The Application is not intended for children under 13 years of age (or the equivalent minimum age in your jurisdiction). We do not knowingly collect personal information from children under 13. If we learn that we have collected personal information from a child under 13 without parental consent, we will take steps to delete such information and terminate the child's account.
 
-Parents or guardians who believe their child has provided information to us should contact us at: legal@yourbself.com
+Parents or guardians who believe their child has provided information to us should contact us at: legal@3dinteractiveapp.com
 
 ---
 
 ## 10. INTERNATIONAL DATA TRANSFERS
 
-Your information may be transferred to, stored in, and processed in countries other than your country of residence, including the United States. These countries may have data protection laws that differ from your home country.
+Your information may be transferred to, stored in, and processed in countries other than your country of residence, including the United States. These countries may have data protection laws that differ from your country of origin.
 
 By using the Application, you consent to the transfer of your information to countries outside your country of residence, which may have different data protection rules.
 
@@ -227,7 +227,7 @@ For EU/EEA users, we ensure adequate data protection through:
 
 ## 11. THIRD-PARTY LINKS
 
-The Application may contain links to third-party websites, services, and applications not operated by us. This Privacy Policy does not apply to third-party services, and we are not responsible for their practices. We encourage you to review their privacy policies before providing personal information.
+The Application may contain links to third-party websites, services, and applications not operated by us. This Privacy Policy does not apply to third-party services, and we are not responsible for their privacy practices. We encourage you to review their privacy policies before providing your information.
 
 ---
 
@@ -237,7 +237,7 @@ The Application may contain links to third-party websites, services, and applica
 You can opt-in or opt-out of promotional emails and marketing communications at any time by:
 - Clicking "Unsubscribe" in email communications
 - Adjusting settings in the Application
-- Contacting us at: marketing@yourbself.com
+- Contacting us at: marketing@3dinteractiveapp.com
 
 ### 12.2 Push Notifications
 With your permission, we may send push notifications. You can disable these in your device settings.
@@ -272,22 +272,22 @@ Your continued use of the Application after changes constitute your acceptance o
 
 For questions, concerns, or requests related to this Privacy Policy, please contact:
 
-**Yourbself Inc. Privacy Team**
-Email: privacy@yourbself.com
-Phone: +1-888-YOURBSELF (1-888-968-7273)
+**3D Interactive App Inc. Privacy Team**
+Email: privacy@3dinteractiveapp.com
+Phone: +1-888-3D-INTERACTIVE
 Mailing Address:
-  Yourbself Inc.
+  3D Interactive App Inc.
   San Francisco, California 94105
   United States
 
 **Data Protection Officer:**
-Email: dpo@yourbself.com
+Email: dpo@3dinteractiveapp.com
 
 **European Representatives (GDPR):**
-Email: eu-privacy@yourbself.com
+Email: eu-privacy@3dinteractiveapp.com
 
 ---
 
-**© 2026 Yourbself Inc. All rights reserved.**
+**© 2026 3D Interactive App Inc. All rights reserved.**
 
 **Last Updated: September 3, 2026**

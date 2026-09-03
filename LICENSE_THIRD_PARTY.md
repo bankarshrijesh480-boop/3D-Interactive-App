@@ -1,6 +1,6 @@
 # Third-Party Licenses
 
-**YOURBSELF - Premium Edition**
+**3D INTERACTIVE APP - Premium Edition**
 **Third-Party Open Source Licenses and Acknowledgments**
 
 ---
@@ -256,11 +256,11 @@ cat pubspec.lock
 
 4. **Open Source Contribution**: We acknowledge and respect the contributions of all open-source developers and communities.
 
-5. **Contact**: For questions about third-party licenses, contact: legal@yourbself.com
+5. **Contact**: For questions about third-party licenses, contact: legal@3dinteractiveapp.com
 
 ---
 
-**© 2026 Yourbself Inc.**
+**© 2026 3D Interactive App Inc.**
 
 **Generated**: September 3, 2026
 
